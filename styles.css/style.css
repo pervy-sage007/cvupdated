@@ -1,0 +1,125 @@
+body {
+  margin: 0px;
+  text-align: center;
+  background-color: #f4dfba;
+  color: #876445;
+}
+
+h1 {
+  line-height: 2;
+  font-size: 5.62rem;
+  margin: 50px auto 0 auto;
+  font-family: "Comforter", cursive;
+  color: #876445;
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-family: "Supermercado One", cursive;
+  color: #876445;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: "Quintessential", cursive;
+  color: #ca965c;
+}
+
+a {
+  color: #876445;
+  margin:10px 20px;
+  text-decoration: none;
+}
+a:hover{
+   color: white;
+}
+
+div {
+ 
+  margin: 0px;
+}
+
+.top-container {
+  background-color: #eec373;
+  position: relative;
+  padding-top:50px ;
+  
+}
+
+.middle-container {
+    margin-top: 100px;
+    margin-bottom:100px;
+    }
+
+    .bottom-container {
+        background-color: #eec373;
+padding: 40px 0px 20px;
+      }
+
+
+.my-image {
+  border-radius: 25%;
+  background-color: #876445;
+  width:15%;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  
+}
+
+.about{
+    width: 30%;
+    margin:60px auto 40px;
+}
+
+.pr {
+  background-color: #876445;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.ji {
+  width: 20%;
+  float: right;
+  background-color: #876445;
+  margin-left: 10px;
+}
+
+
+hr {
+  border-color: gray;
+  border-style: dotted none none;
+  border-width: 10px;
+  width: 20%;
+  margin: 100px auto;
+}
+ 
+
+.copy-rights {
+  color: #EAF6F6;
+  margin-top: 3%;
+}
+.btn {
+  background-color: #876445;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 5%;
+  margin: 50px auto 50px auto;
+}
+
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+}
+
+.bottom-cloud{
+    position: absolute;
+}
